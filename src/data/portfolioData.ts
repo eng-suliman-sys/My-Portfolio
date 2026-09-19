@@ -39,13 +39,13 @@ export const personalInfo: PersonalInfo = {
   location: "Available for Remote & International Engagements",
   availabilityStatus: "Available for KorvenzaTech Ventures, Technical Leadership & Product Builds",
   email: "khansulimankhan13@gmail.com",
-  whatsapp: "+923000000000", // Update with your actual WhatsApp number
-  github: "https://github.com/sulemankhan-dev", // Update with your GitHub profile
-  linkedin: "https://linkedin.com/in/sulemankhan-dev", // Update with your LinkedIn
-  fiverr: "https://fiverr.com/sulemankhan_dev", // Update with your Fiverr profile
+  whatsapp: "+923329529097",
+  github: "https://github.com/sulemankhan-dev",
+  linkedin: "https://linkedin.com/in/sulemankhan-dev",
+  fiverr: "https://fiverr.com/sulemankhan_dev",
   resumeDownloadUrl: "#download-cv",
   // Official uploaded portrait of Suleman Khan (CEO & Founder, KorvenzaTech)
-  profileImage: "/images/suleman-khan-profile.jpg",
+  profileImage: "/images/suleman-khan-profile.jpeg",
   profileImageAlt: "Suleman Khan — CEO & Founder at KorvenzaTech and Software Engineer"
 };
 
@@ -90,9 +90,9 @@ export const korvenzaTechData: KorvenzaTechInfo = {
   tagline: "Technology • Software • Digital Solutions",
   shortIntroduction: "KorvenzaTech is a technology-focused company founded to develop modern digital products and software solutions.",
   detailedOverview: "As the CEO & Founder of KorvenzaTech, I focus on combining software engineering, product development and business strategy to create practical digital solutions. My role extends beyond writing code. I work on product ideas, technical direction, development, project planning and creating solutions designed around real business requirements.",
-  websiteUrl: "https://korvenzatech.com",
-  isWebsiteLive: false,
-  contactEmail: "khansulimankhan13@gmail.com",
+  websiteUrl: "https://korvenzatech.com/",
+  isWebsiteLive: true,
+  contactEmail: "info@korvenzatech.com",
   coreSolutions: [
     "Mobile Applications (Flutter iOS & Android)",
     "Modern Web Applications & Responsive Portals",
